@@ -1,0 +1,11 @@
+*.pyc
+*.log
+tmp/*
+log/*
+data/*
+test/*
+.idea/*
+.idea
+c-sharp/test/*
+r/test/*
+
